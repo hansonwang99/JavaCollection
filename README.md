@@ -1,7 +1,7 @@
 
 自学之路漫又长，唯有不断总结，不断回味，不断分享，才能成长！
 
-联系我可以去[【公众号】](#公众号)直接私信我，或者加我[【微信】](#微信)提意见
+联系我可以去[【公众号】](#公众号)直接私信我，或者加我[【微信】](#微信)
 
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
@@ -25,6 +25,9 @@
 # 学习路线
 
 - [Java后端开发学习路线](https://mp.weixin.qq.com/s/D5yHGclHsOXKa4DJ5xQJGg)
+
+![](https://codesheep.oss-cn-hangzhou.aliyuncs.com/blog/Java后端开发学习路线-高清版的副本.jpg)
+
 - [C语言/C++开发学习路线（偏后台）](https://mp.weixin.qq.com/s/tXilzUzN7cDhnc3ztw4Vlw)
 - Linux学习路线
 - [前端开发学习路线](https://mp.weixin.qq.com/s/Y50BZPXfWhQw5xYl7WgEZw)
