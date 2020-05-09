@@ -26,7 +26,11 @@
 
 - [Java后端开发学习路线](https://mp.weixin.qq.com/s/D5yHGclHsOXKa4DJ5xQJGg)
 
-![](https://codesheep.oss-cn-hangzhou.aliyuncs.com/blog/Java后端开发学习路线-高清版的副本.jpg)
+<p align="center">
+    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
+        <img src="https://codesheep.oss-cn-hangzhou.aliyuncs.com/blog/JavaRoad.jpg" width=""/>
+    </a>
+</p>
 
 - [C语言/C++开发学习路线（偏后台）](https://mp.weixin.qq.com/s/tXilzUzN7cDhnc3ztw4Vlw)
 - Linux学习路线
