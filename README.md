@@ -28,7 +28,7 @@
 
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://codesheep.oss-cn-hangzhou.aliyuncs.com/blog/JavaRoad.jpg" width=""/>
+        <img src="https://codesheep.oss-cn-hangzhou.aliyuncs.com/blog/JavaRoadMap.jpg" width=""/>
     </a>
 </p>
 
