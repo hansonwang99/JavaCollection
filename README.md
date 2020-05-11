@@ -32,6 +32,8 @@
     </a>
 </p>
 
+> 注：图片上传后可能被压缩，如需无损版高清大图，可去微信公众号「CodeSheep」后台回复「高清大图」四个字获取即可
+
 - [C语言/C++开发学习路线（偏后台）](https://mp.weixin.qq.com/s/tXilzUzN7cDhnc3ztw4Vlw)
 - Linux学习路线
 - [前端开发学习路线](https://mp.weixin.qq.com/s/Y50BZPXfWhQw5xYl7WgEZw)
