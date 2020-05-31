@@ -352,7 +352,7 @@
 ---
 ### 写作之路
 
-
+- [坚持写博客三年了，分享几个私藏小工具](https://mp.weixin.qq.com/s/T-b7GfBoMGRuOqtp3T_HaA)
 - [Win10下Hexo博客搭建教程，及阿里云服务器部署实战](https://mp.weixin.qq.com/s/JTTUYJTvtdT6X2fvLUBFZg)
 - [用Github+docsify，我花了半天就搭好了个人博客](https://mp.weixin.qq.com/s/grsv_rx3DL862M8dBsHd_A)
 
