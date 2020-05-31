@@ -36,7 +36,7 @@
 ---
 # 学习路线
 
-- [Java后端开发学习路线](https://mp.weixin.qq.com/s/D5yHGclHsOXKa4DJ5xQJGg)
+- [Java后端开发学习路线](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
 
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
@@ -65,6 +65,7 @@
 ---
 # 书籍推荐
 
+- [我的Java后端开发小书架分享](https://mp.weixin.qq.com/s/voNG467kSVfR-yjwelQhow)
 - [必读计算机编程好书推荐！程序员小伙搬出了他的书架！](https://www.bilibili.com/video/BV1kJ411W7pi)
 - [自学C/C++书籍推荐（自学C/C++看书路线推荐）](https://www.bilibili.com/video/BV1ob411m76i)
 
@@ -76,21 +77,23 @@
 
 - 基本功趣味学习
 
-  - [这才是学编程要懂的基础！](https://mp.weixin.qq.com/s/ttncekujB82g88GRx3a6lQ)
-  - [真有小伙伴不知道浮点数如何转二进制吗？](https://mp.weixin.qq.com/s/LVpvmBO0GY6TC4gwL_12Yw)
-  - [编程坑太多，光一个List使用，就踩了5个](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
   - [老大说：谁要再用double定义商品金额，就自己收拾东西走](https://mp.weixin.qq.com/s/UyYDt3HB8IO_AoSDLndhxA)
-  - [恕我直言，我怀疑你没怎么用过枚举](https://mp.weixin.qq.com/s/DgOr7cat8SP0zoY7Ke3toQ)
-  - [对不起我拖后腿了！我才刚用上Java 11](https://mp.weixin.qq.com/s/kNMQp-vjVK6Fq07xalZkng)
   - [为什么我们要面向接口编程？！](https://mp.weixin.qq.com/s/Dg9LcKJBrabcnvC_6wga-A)
+  - [恕我直言，我怀疑你没怎么用过枚举](https://mp.weixin.qq.com/s/DgOr7cat8SP0zoY7Ke3toQ)
+  - [一文详解序列化和反序列化](https://mp.weixin.qq.com/s/0EfIUB9E-0Oh_Clwuxswuw)
+  - [对不起我拖后腿了！我才刚用上Java 11](https://mp.weixin.qq.com/s/kNMQp-vjVK6Fq07xalZkng)
   - [答应我，别再if/else走天下了可以吗](https://mp.weixin.qq.com/s/ufRf8DQQRYQI0q2VxG3hQg)
-  - [答应我，别再if/else走天下了可以吗「C++ 篇」](https://mp.weixin.qq.com/s/iGqAZM7Ja_OzjH5AgS8geA)
+  - [答应我，别再if/else走天下了可以吗「C++ 版」](https://mp.weixin.qq.com/s/iGqAZM7Ja_OzjH5AgS8geA)
   - [听说你只会用注解，不会自己写注解？](https://mp.weixin.qq.com/s/gdYysBB3aD_HmPyvEThFXw)
   - [从一个面试题看程序员的几项基本功](https://mp.weixin.qq.com/s/dVgDv1bNH8ivO0Ft0FtmZg)
   - [只因少写一个判空，我的代码上线后炸了!](https://mp.weixin.qq.com/s/RsC7peRsFaJAEcG2eTJb0Q)
   - [以后要是再写for循环，我就捶自己](https://mp.weixin.qq.com/s/yI82juBiirJ56BZfGJezLw)
   - [什么？你项目还在用Date表示时间？！](https://mp.weixin.qq.com/s/v-Va_GuSUGr9HVAW84kloQ)
   - [面试官：为什么要重写hashcode和equals方法？](https://mp.weixin.qq.com/s/QZPezSruj0qvBUJEM4jB0g)
+  - [这才是学编程要懂的基础！](https://mp.weixin.qq.com/s/ttncekujB82g88GRx3a6lQ)
+  - [真有小伙伴不知道浮点数如何转二进制吗？](https://mp.weixin.qq.com/s/LVpvmBO0GY6TC4gwL_12Yw)
+  - [List使用踩坑记录](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
+  - [Map使用踩坑记录](https://mp.weixin.qq.com/s/D21mcfI4cxNf4D9ukjESog)
   
 - 多线程/并发
 
@@ -107,6 +110,8 @@
 
 - 数据结构和算法
 
+  - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
+  - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
   - [数据结构里各种难啃的“树”，一文搞懂它](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
   - [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
   - 哈希算法详解
@@ -114,11 +119,13 @@
 
 - 计算机网络（TCP/IP协议栈）
 
+  - [计网 IP 知识全家桶，45 张图一套带走](https://mp.weixin.qq.com/s/21Tk-8gxpDoH9DNWNYCWmA)
   - [ping命令用得这么6，原理知道不？图解一波！](https://mp.weixin.qq.com/s/55bbQX2-SUNe6PEI9My5fA)
   - [探究：一个数据包在网络中到底是怎么游走的？](https://mp.weixin.qq.com/s/07zloKKMUl-RHN6tWqZIJQ)
   - [硬不硬你说了算！全图解被问千百遍的TCP三次握手和四次挥手面试题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
   - [硬核！30 张图解 HTTP 常见的面试题](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
   - [如果面试再问GET和POST区别，就把这篇甩给他](https://mp.weixin.qq.com/s/BraxnIUJF4JGtIep0YiovA)
+  - [计网 TCP/UDP 部分高频面试题大集合](https://mp.weixin.qq.com/s/SZ8XcOzZCVJG_P1_O4OtWQ)
 
 - 操作系统
 
@@ -133,12 +140,20 @@
   - SQL优化详解
   - 基于代理的数据库分库分表框架 Mycat实践
 
+- 其他
+
+  - [UML大科普：一文梳理清 14种 UML图](https://mp.weixin.qq.com/s/o1P4z3u2Xphu_IyTUFT-2g)
+
 ---
 ### 工具和软件
 
+[【置顶】熬10天夜，肝出了这个PDF版「软件安装手册」](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
+
 - Linux系统
   
+  - [常用 Linux 发行版操作系统大盘点](https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg)
   - [Linux环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
+  - [面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
 
 - Git/SVN
 
@@ -167,6 +182,7 @@
   - [我的常用软件大公开！](https://mp.weixin.qq.com/s/ONx6wjGjQSvOOIgnEBTNJQ)
   - [前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
   - [服务器软件大盘点！](https://mp.weixin.qq.com/s/J1XjIwtEKjaltqWH-0qmgw)
+  
 
 ---
 ### 应用框架
@@ -263,6 +279,16 @@
 # 面试相关
 
 ---
+### 面试题分享
+
+- [Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
+- [Java虚拟机（JVM）面试题大集合](https://mp.weixin.qq.com/s/T2DqgJ9-0QiRZQYUeR3c8w)
+- [Spring 经典面试题大集合](https://mp.weixin.qq.com/s/q4CajkpSUC8TCgv55VK5aQ)
+- [Spring Boot基础面试题大集合](https://mp.weixin.qq.com/s/cLh9xCDkVG0KV-uaX8PkNw)
+- [Java并发和多线程基础面试题大集合](https://mp.weixin.qq.com/s/pIVf97W4DuAPNxq6zgRvsQ)
+- [计网 TCP/UDP 部分高频面试题大集合](https://mp.weixin.qq.com/s/SZ8XcOzZCVJG_P1_O4OtWQ)
+- [面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
+
 ### 面经分享
 
 - [小伙伴现身说法：Linux后台开发该如何准备](https://mp.weixin.qq.com/s/joFBDntI9PmyVRiKPHwpRg)
@@ -277,9 +303,15 @@
 
 - [简历模板分享](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
 
+### 城市/公司选择
+
+- [一二线城市知名IT互联网公司名单](https://mp.weixin.qq.com/s/VFocc914mGTrDzodI-MF1A)
+
 ---
 # 资源推荐
 
+- [我的Java后端开发小书架分享](https://mp.weixin.qq.com/s/voNG467kSVfR-yjwelQhow)
+- [这么多编程学习网站，总有一个适合你吧](https://mp.weixin.qq.com/s/L9lbKUJHTThCoOC8d6FGpg)
 - [阿里巴巴Java开发手册分享](https://mp.weixin.qq.com/s/yncEfIOxWeNj7asCLPwrUw)
 - [简历模板分享](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
 
