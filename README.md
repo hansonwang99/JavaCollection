@@ -57,6 +57,7 @@
 - [上次谁说要Java开源项目来着？来！](https://mp.weixin.qq.com/s/y59hmDbQj1QglVj90viZqw)
 - [分享几款适合初学者的C语言/C++开源项目](https://mp.weixin.qq.com/s/bRNiqhZZXaoRwPEt8GIpLg)
 - [吵着要学AI的小伙伴，可以看看这些牛批的开源项目](https://mp.weixin.qq.com/s/I9lr_SEg70OO_v-GOIUgjQ)
+- [再整理几个开源项目：练手/毕设/私活都不愁了](https://mp.weixin.qq.com/s/jjugnXIr3G0u7i9krbmmqg)
 - [C/C++领域的练手开源项目，小伙伴们接好](https://mp.weixin.qq.com/s/fNgOqKlITKa4yTbULO2Atw)
 - [5个值得学习和练手的企业级开源项目!](https://mp.weixin.qq.com/s/PmxVlkI9LUmnqqSk0Frqeg)
 - [互联网开发十大顶级开源项目巡礼！](https://mp.weixin.qq.com/s/2cXCyl9rLNhFY1dDurkEMA)
@@ -111,6 +112,7 @@
 - 数据结构和算法
 
   - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
+  - [诸葛亮vs司马懿，排序算法大战谁能笑到最后？](https://mp.weixin.qq.com/s/za_MJY3-r9Gfiu3BJfej7Q)
   - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
   - [数据结构里各种难啃的“树”，一文搞懂它](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
   - [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
@@ -135,6 +137,7 @@
 
   - [left join、right join和join，傻傻分不清？](https://mp.weixin.qq.com/s/o150rmPOgzUeafVTh-ESmQ)
   - [数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
+  - [数据库索引的原理和使用准则](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
   - 数据库锁机制
   - 数据库事务特性与隔离级别详解
   - SQL优化详解
@@ -147,18 +150,22 @@
 ---
 ### 工具和软件
 
-[【置顶】熬10天夜，肝出了这个PDF版「软件安装手册」](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
+[【置顶1】熬10天夜，肝出了这个PDF版「软件安装手册」](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
+[【置顶2】再肝两夜，写了个「服务器项目部署」实战PDF手册](https://mp.weixin.qq.com/s/JUJ6qu_ec3s1JmTxQt_V3g)
 
 - Linux系统
   
   - [常用 Linux 发行版操作系统大盘点](https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg)
-  - [Linux环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
+  - [人手一套Linux环境搭建之：macOS版本教程](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
+  - [人手一套Linux环境之：Windows版本教程](https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg)
   - [面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
+  - [废柴电脑拯救计划：搭个云服务器它不香嘛](https://mp.weixin.qq.com/s/YpWp-b3vcAtb_jBwCM7wtg)
 
 - Git/SVN
 
   - [一招搞定GitHub下载加速！](https://mp.weixin.qq.com/s/SYR4zvjhAH1mX9fxdp8cbA)
   - [为什么 Git把 SVN拍在了沙滩上！](https://mp.weixin.qq.com/s/bUYz9JwqAYH_Fn6nHPSmTg)
+  - [Git的由来、数据模型以及基础命令](https://mp.weixin.qq.com/s/VvpjFUXd6jcatACHyFPHfg)
   - [Git操作与命令看这篇足矣！](https://mp.weixin.qq.com/s/swnwBiuyVmhs5iPqv3H6BQ)
 
 - 开发软件
@@ -177,11 +184,14 @@
   - Dash
   - Zeal
 
-- 其他软件
+- 其他软件和工具
 
   - [我的常用软件大公开！](https://mp.weixin.qq.com/s/ONx6wjGjQSvOOIgnEBTNJQ)
+  - [这么多编程学习网站，总有一个适合你吧](https://mp.weixin.qq.com/s/L9lbKUJHTThCoOC8d6FGpg)
   - [前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
   - [服务器软件大盘点！](https://mp.weixin.qq.com/s/J1XjIwtEKjaltqWH-0qmgw)
+  - [几款提升效率和B格的软件神器](https://mp.weixin.qq.com/s/HZRz_A8bLcOTuzcezYEFZg)
+  - [我的常用在线工具网站](https://mp.weixin.qq.com/s/oMAJaKDfr_bmgCVD0CX1oA)
   
 
 ---
@@ -275,6 +285,8 @@
 - Spring Boot源码阅读调试环境搭建
 - Redis源码阅读调试环境搭建
 
+
+
 ---
 # 面试相关
 
@@ -288,6 +300,8 @@
 - [面试常问的20个Linux命令](https://mp.weixin.qq.com/s/3NI4FWuOfYMJBiKqqnpqMA)
 - [Spring 经典面试题大集合](https://mp.weixin.qq.com/s/q4CajkpSUC8TCgv55VK5aQ)
 - [Spring Boot基础面试题大集合](https://mp.weixin.qq.com/s/cLh9xCDkVG0KV-uaX8PkNw)
+- [Spring Cloud基础面试题大集合](https://mp.weixin.qq.com/s/g0br3PfTmm8C_nkKbzE_ig)
+- [C语言/C++基础面试知识大集合](https://mp.weixin.qq.com/s/7mx58Idw1pL0MjPIFBUB1Q)
 
 ### 面经分享
 
@@ -297,6 +311,7 @@
 - [小伙伴面经分享(一)：深信服(含答案)](https://mp.weixin.qq.com/s/3YfKHo2lW-NC1tEA_u-mlQ)
 - [小伙伴面经分享(二)：京东(含答案)](https://mp.weixin.qq.com/s/sc-7rc6obYZNFcc1mjNPAg)
 - [一位程序媛的秋招软件开发岗面试经历](https://mp.weixin.qq.com/s/jAPYcMULqQl6AE_Vv7BZhQ)
+- [写简历→面试→谈薪：一绿向北](https://mp.weixin.qq.com/s/0RoFVAezxW8cl3bjlAHbQg)
 
 ---
 ### 简历模板
@@ -314,6 +329,11 @@
 - [这么多编程学习网站，总有一个适合你吧](https://mp.weixin.qq.com/s/L9lbKUJHTThCoOC8d6FGpg)
 - [阿里巴巴Java开发手册分享](https://mp.weixin.qq.com/s/yncEfIOxWeNj7asCLPwrUw)
 - [简历模板分享](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
+
+---
+# 其他技术文章
+
+- [扫码付款背后的原理居然是这样](https://mp.weixin.qq.com/s/RjVLsAhiMIYzsMhXJiReNg)
 
 
 
@@ -338,6 +358,8 @@
 ---
 ### 我的心路历程
 
+- [我的毕业季，没有一点点仪式感](https://mp.weixin.qq.com/s/0iSzqJBj7YHkijGxbFUqCQ)
+- [既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
 - [二线城市的程序员活得好吗？](https://mp.weixin.qq.com/s/gOo8ztVLdXp3m_rvBozQpQ)
 - [自学编程的八大误区！克服它！](https://mp.weixin.qq.com/s/r_vm7lA2Ul_ZFhkx60wplg)
 - [我的本科回忆录：从迷茫自卑到保送华科](https://mp.weixin.qq.com/s/t9F6Z-DrybWLUxVrPTRPJw)
@@ -362,6 +384,9 @@
 ---
 # 闲聊/侃大山
 
+- [如何优雅地向老师表达：我这周任务没啥进展？](https://mp.weixin.qq.com/s/gbIGNXIkOpw8tQ5aIoJMtw)
+- [C语言为什么不会过时](https://mp.weixin.qq.com/s/ltcfVu__ajU_i9wq77OnJg)
+- [好不容易读个研，遇到放羊的导师可咋整？](https://mp.weixin.qq.com/s/OkxMe3Eaywx-KF9tBmjf-Q)
 - [程序员小猪队友行为大赏](https://mp.weixin.qq.com/s/1dJO8VJ6GaZykv33IUslkw)
 - [研究生/专升本都扩招，我们没有理由放弃！](https://mp.weixin.qq.com/s/MvZFLDHItPR7InzrtYRL5w)
 - [实不相瞒，在家远程办公15天，我有点自闭](https://mp.weixin.qq.com/s/gJBlu5gXL5vqYWG6ggisRw)
