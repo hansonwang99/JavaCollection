@@ -350,11 +350,6 @@
 ### 联系方式
 
 - [微信公众号私信联系我](https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww)
-- [bilibili](https://space.bilibili.com/384068749)
-- [简书](https://www.jianshu.com/u/d19536b0189b)
-- [CSDN](https://blog.csdn.net/wangshuaiwsws95)
-- [掘金](https://juejin.im/user/59551ecdf265da6c2518cd5c)
-- [知乎](https://www.zhihu.com/people/code_sheep)
 
 ---
 ### 我的心路历程
